@@ -4,7 +4,7 @@
 ### Law of Cosines
 If $ABC$ is a triangle with sides $a$, $b$, and $c$, then
 $$a^2=b^2-2bc\cos{A}$$
-$$\cos{A}=\frac{b^2+c^2-a^2}{
+$$\cos{A}=\frac{b^2+c^2-a^2}{2bc}$$Welcome to StackEdit!
 
 ### Example 1 - Three Sides (SSS)
 Find the three angles for a triangle with sides $a=8$ft, $b=19$ft, and $=14$ft.
@@ -15,6 +15,6 @@ $B=116.80\degree$
 $C=\cos^{-1}(\fra
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTM3MDM3MSwxOTI3ODg4NzA1LC0zMz
-I0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTg3OTI5OTM2OSwxNTExMzcwMzcxLDE5Mj
+c4ODg3MDUsLTMzMjQ1NTM2M119
 -->
