@@ -140,7 +140,7 @@ A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
-```
+```6.2 Law of 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTE3MTM2MzgyMjIsLTMzMjQ1NTM2M119
 -->
