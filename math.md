@@ -28,12 +28,13 @@ $$\frac{\sin{25\degree}}{5.41}=\frac{\sin{C}}{12}$$
 $$C=\sin^{-1}(\frac{12\sin{25\degree}}{5.41})$$
 $$C_1=69.62\degree\text{(Doesn't work)}$$
 $$C_2=180\degree-69.62\degree$$
-$$C_2=110.38\degree$$
+$$Cc_2=110.38\degree$$
 $$B=180\degree-110.38\degree-25\degree$$
 $$B=44.62\degree$$
 ## Part 3 - Finding the Area of a Triangle
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3MDMzMjI2LC04MTI3MDA4MzksODkwND
-g0MzQxLC0xNjA5MDY5MzIsNjgwODA0MzYzLC05MTE2NTYwNjIs
-LTg3OTI5OTM2OSwxOTI3ODg4NzA1LC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTE5NTM0NjM0OTksMjM3MDMzMjI2LC04MT
+I3MDA4MzksODkwNDg0MzQxLC0xNjA5MDY5MzIsNjgwODA0MzYz
+LC05MTE2NTYwNjIsLTg3OTI5OTM2OSwxOTI3ODg4NzA1LC0zMz
+I0NTUzNjNdfQ==
 -->
