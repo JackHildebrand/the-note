@@ -10,9 +10,11 @@ $$\cos{A}=\frac{b^2+c^2-a^2}{
 Find the three angles for a triangle with sides $a=8$ft, $b=19$ft, and $=14$ft.
 1. Solve for $B$: $\cos{B}=\frac{a^2+c^2-b^2}{2ac}$
 $B=\cos^{-1}(\frac{8^2+14^2-19^2}{2(8)(14)})$
-$b
+$B=116.80\degree$
+2. Solve for $C$: $\cos{C}=\frac{a^2+b^2-c^2}{2ab}$
+$C=\cos^{-1}(\fra
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjM3NjQxLDE5Mjc4ODg3MDUsLTMzMj
-Q1NTM2M119
+eyJoaXN0b3J5IjpbMTUxMTM3MDM3MSwxOTI3ODg4NzA1LC0zMz
+I0NTUzNjNdfQ==
 -->
