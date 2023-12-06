@@ -27,8 +27,9 @@ SoOlve the triangle with angle $A=25\degree$ and sides $b=9$m, and $c=12$m.
 $$\frac{\sin{25\degree}}{5.41}=\frac{\sin{C}}{12}$$
 $$C=\sin^{-1}(\frac{12\sin{25\degree}}{5.41})$$
 $$C_1\text{~1~=69.62\degree\text{(Doesn't work)}$$
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMjcwMDgzOSwtNTQyNjMzMDk4LDg5MD
-Q4NDM0MSwtMTYwOTA2OTMyLDY4MDgwNDM2MywtOTExNjU2MDYy
-LC04NzkyOTkzNjksMTkyNzg4ODcwNSwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbODQ3NzUxMDQ3LC04MTI3MDA4MzksODkwND
+g0MzQxLC0xNjA5MDY5MzIsNjgwODA0MzYzLC05MTE2NTYwNjIs
+LTg3OTI5OTM2OSwxOTI3ODg4NzA1LC0zMzI0NTUzNjNdfQ==
 -->
