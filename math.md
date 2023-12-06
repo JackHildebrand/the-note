@@ -146,7 +146,11 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```6.2 Law of 
+### Example 1 - Three Sides (SSS)
+Find the three angles for a triangle with sides $a=8$ft, $b=19$ft, and $=14$ft.
+1. Solve for $B$: $\cos{B}=\frac{a^2+c^2-b^2}{2ac}$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzg4ODcwNSwtOTE2MTk1ODc0LC0zMz
+eyJoaXN0b3J5IjpbLTEwOTg0Nzg4MywxOTI3ODg4NzA1LC0zMz
 I0NTUzNjNdfQ==
 -->
