@@ -25,9 +25,10 @@ SoOlve the triangle with angle $A=25\degree$ and sides $b=9$m, and $c=12$m.
 	$$a=5.41\text{m}$$
 2. Find $B$/$C$: <mark>Law of Sines</mark> **OR** Law of Cosines
 $$\frac{\sin{25\degree}}{5.41}=\frac{\sin{C}}{12}$$
-$$C=\sin^{-1}(\frac{12\sin{25
+$$C=\sin^{-1}(\frac{12\sin{25\degree}}{5.41})$$
+$$C\text{~1~=69.62\degree$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODQzOTEzMSw4OTA0ODQzNDEsLTE2MD
+eyJoaXN0b3J5IjpbMTY1NjYxNTc4NCw4OTA0ODQzNDEsLTE2MD
 kwNjkzMiw2ODA4MDQzNjMsLTkxMTY1NjA2MiwtODc5Mjk5MzY5
 LDE5Mjc4ODg3MDUsLTMzMjQ1NTM2M119
 -->
