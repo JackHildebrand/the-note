@@ -1,7 +1,9 @@
 # 6.2 Law of Cosines
 ## Part 1 - Solving a Triangle with Three Sides (SSS)
 ### Law of Cosines
-If $ABC$ is a trian
+If $ABC$ is a triangle with sides $a$, $b$, and $c$, then
+$$a^2=b^2-2bc\cos{A}$$
+$$\cos{A}=\frac{b^2+c^2-a^2}{2bc}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDQwMzkzMiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTkxNjE5NTg3NCwtMzMyNDU1MzYzXX0=
 -->
