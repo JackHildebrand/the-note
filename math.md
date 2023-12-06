@@ -24,8 +24,8 @@ SOlve the triangle with angle $A=25\degree$ and sides $b=9$m, and $c=12$m.
 	$a=\sqrt{9^2+12^2-2(9)(12)\cos{25\degree}}$
 	$a=5.41$m
 2. Find $B$/$C$: <mark>Law of Sines</mark> **OR** Law of Cosines
-$frac{\sin{25\degree}}{5.41}=\frac{\sin{C}{12}$
+$frac{\sin{25\degree}}{5.41}=\frac{\sin{C}{12}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTg3NDI3OTgsLTkxMTY1NjA2MiwtOD
-c5Mjk5MzY5LDE5Mjc4ODg3MDUsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTI4OTgxMjMyOSwtOTExNjU2MDYyLC04Nz
+kyOTkzNjksMTkyNzg4ODcwNSwtMzMyNDU1MzYzXX0=
 -->
