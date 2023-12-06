@@ -22,11 +22,12 @@ SoOlve the triangle with angle $A=25\degree$ and sides $b=9$m, and $c=12$m.
 1. Find $a$: $a^2=b^2+c^2-2bc\cos{A}$
 	$$a^2=9^2+12^2-(2(9)(12)\cos{25\degree})$$
 	$$a=\sqrt{9^2+12^2-2(9)(12)\cos{25\degree}}$$
-	$$a=5.41$$
+	$$a=5.41\text{m}$$
 2. Find $B$/$C$: <mark>Law of Sines</mark> **OR** Law of Cosines
 $$\frac{\sin{25\degree}}{5.41}=\frac{\sin{C}}{12}$$
+$$C=\sin^{-1}(\frac{12\sin{25
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwNDg0MzQxLC0xNjA5MDY5MzIsNjgwOD
-A0MzYzLC05MTE2NTYwNjIsLTg3OTI5OTM2OSwxOTI3ODg4NzA1
-LC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbMTg3ODQzOTEzMSw4OTA0ODQzNDEsLTE2MD
+kwNjkzMiw2ODA4MDQzNjMsLTkxMTY1NjA2MiwtODc5Mjk5MzY5
+LDE5Mjc4ODg3MDUsLTMzMjQ1NTM2M119
 -->
