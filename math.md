@@ -23,8 +23,8 @@ SOlve the triangle with angle $A=25\degree$ and sides $b=9$m, and $c=12$m.
 	$a^2=9^2+12^2-(2(9)(12)\cos{25\degree})$
 	$a=\sqrt{9^2+12^2-2(9)(12)\cos{25\degree}}$
 	$a=5.41$m
-2. Find $B$: Law of Sines **OR** Find $C$:
+2. Find $B$/$C$: Law of Sines **OR** Law of Cosines
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3MDI5NTA5LC05MTE2NTYwNjIsLTg3OT
-I5OTM2OSwxOTI3ODg4NzA1LC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTIwMDk3MDU5MDYsLTkxMTY1NjA2MiwtOD
+c5Mjk5MzY5LDE5Mjc4ODg3MDUsLTMzMjQ1NTM2M119
 -->
