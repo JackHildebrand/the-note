@@ -1,15 +1,18 @@
 # 6.2 Law of Cosines
 ## Part 1 - Solving a Triangle with Three Sides (SSS)
+
 ### Law of Cosines
 If $ABC$ is a triangle with sides $a$, $b$, and $c$, then
 $$a^2=b^2-2bc\cos{A}$$
-$$\cos{A}=\frac{b^2+c^2-a^2}{2bc}$$Welcome to StackEdit!
+$$\cos{A}=\frac{b^2+c^2-a^2}{
 
 ### Example 1 - Three Sides (SSS)
 Find the three angles for a triangle with sides $a=8$ft, $b=19$ft, and $=14$ft.
 1. Solve for $B$: $\cos{B}=\frac{a^2+c^2-b^2}{2ac}$
+$B=\cos^{-1}(\frac{8^2+14^2-19^2}{2(8)(14)})$
+$b
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDAzNjU2OCwxOTI3ODg4NzA1LC0zMz
-I0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbMjA4NjM3NjQxLDE5Mjc4ODg3MDUsLTMzMj
+Q1NTM2M119
 -->
