@@ -20,12 +20,12 @@ $A=22.08\degree$
 ### Example 2 - Two Sides, Interior Angle (SAS)
 SOlve the triangle with angle $A=25\degree$ and sides $b=9$m, and $c=12$m.
 1. Find $a$: $a^2=b^2+c^2-2bc\cos{A}$
-	$a^2=9^2+12^2-(2(9)(12)\cos{25\degree})$
-	$a=\sqrt{9^2+12^2-2(9)(12)\cos{25\degree}}$
-	$a=5.41$m
+	$$a^2=9^2+12^2-(2(9)(12)\cos{25\degree})$$
+	$$a=\sqrt{9^2+12^2-2(9)(12)\cos{25\degree}}$$
+	$$a=5.41$m
 2. Find $B$/$C$: <mark>Law of Sines</mark> **OR** Law of Cosines
-$frac{\sin{25\degree}}{5.41}=\frac{\sin{C}{12}}$
+$\frac{\sin{25\degree}}{5.41}=\frac{\sin{C}}{12}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTgxMjMyOSwtOTExNjU2MDYyLC04Nz
-kyOTkzNjksMTkyNzg4ODcwNSwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTIxMjk1NDM0MzksLTkxMTY1NjA2MiwtOD
+c5Mjk5MzY5LDE5Mjc4ODg3MDUsLTMzMjQ1NTM2M119
 -->
