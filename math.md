@@ -31,9 +31,9 @@ $$C_2=180\degree-69.62\degree$$
 $$Cc_2=110.38\degree$$
 $$B=180\degree-110.38\degree-25\degree$$
 $$B=44.62\degree$$
-## Part 3 - Finding the Area of a Triangle
+## Part 3 - Finding the Area of a Triangle (Heron's Formula)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTM0NjM0OTksMjM3MDMzMjI2LC04MT
+eyJoaXN0b3J5IjpbNzg1NTE2MzYyLC0xOTUzNDYzNDk5LC04MT
 I3MDA4MzksODkwNDg0MzQxLC0xNjA5MDY5MzIsNjgwODA0MzYz
 LC05MTE2NTYwNjIsLTg3OTI5OTM2OSwxOTI3ODg4NzA1LC0zMz
 I0NTUzNjNdfQ==
