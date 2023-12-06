@@ -16,8 +16,10 @@ $C=\cos^{-1}(\frac{8^2+19^2-14^2}{2(8)(19)})$
 $C=41.12\degree$
 3. Solve for $A$: $A=180\degree-B-C$
 $A=22.08\degree$
-
+## Part 2 - Solving a Triangle (SAS)
+### Example 2 - Two Sides, Interior Angle (SAS)
+SOlve the triangle with angle $A=25\degree$ and sides 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI1MTc3NiwtOTExNjU2MDYyLC04Nz
+eyJoaXN0b3J5IjpbLTEwMTk4MzExMSwtOTExNjU2MDYyLC04Nz
 kyOTkzNjksMTkyNzg4ODcwNSwtMzMyNDU1MzYzXX0=
 -->
