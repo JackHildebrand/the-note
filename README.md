@@ -8,4 +8,3 @@ Compilation of all of my school notes and projects
 * French 2 (Tiouti)
 * English 10 (Fouts)
 * Chemistry (Ruby)
-test
