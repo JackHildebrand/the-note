@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "San Francisco";
+    font-weight: 400;
+    src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+  }
+
+body {
+    background-color: #1c1c1e;
+    font-family: "San Francisco";
+}
+p {
+    color: #98989f;
+}
+h1, h2, h3, li {
+    color: white;
+}
+.formula {
+    color: white;
+}
